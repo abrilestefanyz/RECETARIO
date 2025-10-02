@@ -262,4 +262,4 @@ npx expo start --port 8082
 
 ---
 
-**Última actualización:** Septiembre 25, 2025
+**Última actualización:** Octubre 05, 2025
